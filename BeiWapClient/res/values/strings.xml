@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeiZhu Travel</string>
+    <string name="calling">400-0571-648</string>
+    <string name="home">Home</string>
+   	<string name="exit_two_click">Press again to exit！</string>
+   	<string name="get_url_fail">Get URL failed!</string>
+   	<string name="uninstall_wechat">Sorry, you did not install wechat, please download and install!</string>
+   	<string name="copy_url_success">Copy Link success!</string>
+   	<string name="menu_share">Share</string>
+   	<string name="menu_copy_link">Copy Link</string>
+   	<string name="menu_open_in_browser">Open with Browser</string>
+   	<string name="menu_call_service">Contact Customer Service</string>
+   	<string name="menu_send_wechat_friends">Send to Wechat Friends</string>
+   	<string name="menu_share_wechat_moments">Share to Wechat Moments</string>
+   	<string name="menu_send_qq_friends">Send to QQ Friends</string>
+   	<string name="menu_share_qq_qzone">Share to QQ Qzone</string>
+   	<string name="menu_goback">Go Back</string>
+
+</resources>

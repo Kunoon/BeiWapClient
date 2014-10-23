@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">贝竹旅行</string>
+    <string name="calling">400-0571-648</string>
+    <string name="home">首页</string>
+   	<string name="exit_two_click">再按一次退出程序！</string>
+   	<string name="get_url_fail">获取URL失败！</string>
+   	<string name="uninstall_wechat">对不起，您没有安装微信，请下载安装！</string>
+   	<string name="copy_url_success">复制链接成功!</string>
+   	<string name="menu_share">分享</string>
+   	<string name="menu_copy_link">复制链接</string>
+   	<string name="menu_open_in_browser">在浏览器中打开</string>
+   	<string name="menu_call_service">联系客服</string>
+   	<string name="menu_send_wechat_friends">发送给微信好友</string>
+   	<string name="menu_share_wechat_moments">分享到微信朋友圈</string>
+   	<string name="menu_send_qq_friends">发送给QQ好友</string>
+   	<string name="menu_share_qq_qzone">分享到QQ空间</string>
+   	<string name="menu_goback">返回</string>
+
+</resources>

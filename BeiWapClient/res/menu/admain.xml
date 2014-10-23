@@ -1,0 +1,44 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<!--  
+<item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="always"
+        android:title="登录/注册"/>
+-->
+<item
+        android:id="@+id/action_home"
+        android:icon="@drawable/menu_home"
+        android:title="@string/home" />
+
+<item
+        android:id="@+id/action_share_wechat_friends"
+        android:icon="@drawable/menu_wxf"
+        android:title="@string/menu_send_wechat_friends"/>
+<item
+        android:id="@+id/action_share_wechat_moments"
+        android:icon="@drawable/menu_wxm"
+        android:title="@string/menu_share_wechat_moments"/>
+<item
+        android:id="@+id/action_share_qq_friends"
+        android:icon="@drawable/menu_wxf"
+        android:title="@string/menu_send_qq_friends"/>
+<item
+        android:id="@+id/action_share_qq_qzone"
+        android:icon="@drawable/menu_wxm"
+        android:title="@string/menu_share_qq_qzone"/>
+
+<item
+        android:id="@+id/action_copy_url"
+        android:icon="@drawable/menu_copy"
+        android:title="@string/menu_copy_link"/>
+<item
+        android:id="@+id/action_ie"
+        android:icon="@drawable/menu_ie"
+        android:title="@string/menu_open_in_browser" />
+<item
+        android:id="@+id/action_tel"
+        android:icon="@drawable/menu_phone"
+        android:title="@string/menu_call_service" />
+
+</menu>
